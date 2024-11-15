@@ -4,9 +4,12 @@ table, td, th   {
 
 td,th {
     padding: 5px;
+    border-radius: 0px;
+    text-align: center;
 }
 table{
     background-color: azure;
+    border-spacing: 0px;
     
 }
 

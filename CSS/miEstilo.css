@@ -1,0 +1,27 @@
+table, td, th   {
+    border: 1px solid black;
+}
+
+td,th {
+    padding: 5px;
+}
+table{
+    background-color: azure;
+    
+}
+
+div{
+    background-color: blueviolet;
+    width: 210px;
+    height: 110px;
+    padding: 20px;
+}
+
+#Luisa {
+    background-color: red;
+}
+
+.Jireh{
+    color: yellow;
+    background-color: black;
+}
